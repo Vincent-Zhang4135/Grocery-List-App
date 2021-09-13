@@ -1,10 +1,10 @@
-<img width="478" alt="Screen Shot 2021-09-13 at 5 02 46 PM" src="https://user-images.githubusercontent.com/65748334/133155997-118971da-8fe9-4fc3-b053-f6b95814a171.png">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 <img width="478" alt="Screen Shot 2021-09-13 at 5 02 46 PM" src="https://user-images.githubusercontent.com/65748334/133155997-118971da-8fe9-4fc3-b053-f6b95814a171.png">
 Here is a react web app where you can store and check off your list of items that you need! 
+This project was inspired by and supported by John Smilga 
 
 ## Available Scripts
 
